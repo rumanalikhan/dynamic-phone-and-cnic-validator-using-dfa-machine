@@ -1,0 +1,37 @@
+States:
+A B C D E F G H I J K L M N W DE
+
+Alphabet:
+0 1 2 3 4 5 6 7 8 9
+
+Initial State:
+A
+
+Final States:
+N W
+
+Transitions:
+A: 0 -> DE, 1 -> O, 2 -> S, 3 -> P, 4 -> B, 5 -> V, 6 -> DE, 7 -> DE, 8 -> DE, 9 -> DE
+B: 0 -> DE, 1 -> DE, 2 -> C, 3 -> DE, 4 -> DE, 5 -> DE, 6 -> DE, 7 -> DE, 8 -> DE, 9 -> DE
+C: 0 -> D, 1 -> D, 2 -> D, 3 -> D, 4 -> D, 5 -> D, 6 -> D, 7 -> D, 8 -> D, 9 -> D
+D: 0 -> E, 1 -> E, 2 -> E, 3 -> E, 4 -> E, 5 -> E, 6 -> E, 7 -> E, 8 -> E, 9 -> E
+E: 0 -> F, 1 -> F, 2 -> F, 3 -> F, 4 -> F, 5 -> F, 6 -> F, 7 -> F, 8 -> F, 9 -> F
+F: 0 -> G, 1 -> G, 2 -> G, 3 -> G, 4 -> G, 5 -> G, 6 -> G, 7 -> G, 8 -> G, 9 -> G
+G: 0 -> H, 1 -> H, 2 -> H, 3 -> H, 4 -> H, 5 -> H, 6 -> H, 7 -> H, 8 -> H, 9 -> H
+H: 0 -> I, 1 -> I, 2 -> I, 3 -> I, 4 -> I, 5 -> I, 6 -> I, 7 -> I, 8 -> I, 9 -> I
+I: 0 -> J, 1 -> J, 2 -> J, 3 -> J, 4 -> J, 5 -> J, 6 -> J, 7 -> J, 8 -> J, 9 -> J
+J: 0 -> K, 1 -> K, 2 -> K, 3 -> K, 4 -> K, 5 -> K, 6 -> K, 7 -> K, 8 -> K, 9 -> K
+K: 0 -> L, 1 -> L, 2 -> L, 3 -> L, 4 -> L, 5 -> L, 6 -> L, 7 -> L, 8 -> L, 9 -> L
+L: 0 -> M, 1 -> M, 2 -> M, 3 -> M, 4 -> M, 5 -> M, 6 -> M, 7 -> M, 8 -> M, 9 -> M
+M: 0 -> N, 1 -> W, 2 -> N, 3 -> W, 4 -> N, 5 -> W, 6 -> N, 7 -> W, 8 -> N, 9 -> W
+N: 0 -> DE, 1 -> DE, 2 -> DE, 3 -> DE, 4 -> DE, 5 -> DE, 6 -> DE, 7 -> DE, 8 -> DE, 9 -> DE
+W: 0 -> DE, 1 -> DE, 2 -> DE, 3 -> DE, 4 -> DE, 5 -> DE, 6 -> DE, 7 -> DE, 8 -> DE, 9 -> DE
+O: 0 -> DE, 1 -> DE, 2 -> DE, 3 -> DE, 4 -> DE, 5 -> DE, 6 -> C, 7 -> DE, 8 -> DE, 9 -> DE
+P: 0 -> DE, 1 -> DE, 2 -> DE, 3 -> Q, 4 -> DE, 5 -> DE, 6 -> DE, 7 -> DE, 8 -> DE, 9 -> DE
+Q: 0 -> DE, 1 -> DE, 2 -> DE, 3 -> DE, 4 -> R, 5 -> DE, 6 -> DE, 7 -> DE, 8 -> DE, 9 -> DE
+R: 0 -> DE, 1 -> DE, 2 -> DE, 3 -> DE, 4 -> F, 5 -> DE, 6 -> DE, 7 -> DE, 8 -> DE, 9 -> DE
+S: 0 -> DE, 1 -> DE, 2 -> DE, 3 -> DE, 4 -> DE, 5 -> DE, 6 -> DE, 7 -> T, 8 -> DE, 9 -> DE
+T: 0 -> DE, 1 -> DE, 2 -> U, 3 -> DE, 4 -> DE, 5 -> DE, 6 -> DE, 7 -> DE, 8 -> DE, 9 -> DE
+U: 0 -> DE, 1 -> DE, 2 -> F, 3 -> DE, 4 -> DE, 5 -> DE, 6 -> DE, 7 -> DE, 8 -> DE, 9 -> DE
+V: 0 -> DE, 1 -> DE, 2 -> F, 3 -> DE, 4 -> DE, 5 -> F, 6 -> DE, 7 -> DE, 8 -> DE, 9 -> DE
+DE: 0 -> DE, 1 -> DE, 2 -> DE, 3 -> DE, 4 -> DE, 5 -> DE, 6 -> DE, 7 -> DE, 8 -> DE, 9 -> DE

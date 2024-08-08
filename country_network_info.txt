@@ -1,0 +1,99 @@
+0092
+Country: Pakistan
+Networks:
+30: Jazz
+31: Jazz
+32: Jazz
+33: Ufone
+34: Telenor
+35: Zong
+36: Zong
+37: Zong
+
+0090
+Country: Turkey
+Networks:
+500: TurkTelecom
+501: TurkTelecom
+502: TurkTelecom
+503: TurkTelecom
+504: TurkTelecom
+505: TurkTelecom
+506: TurkTelecom
+507: TurkTelecom
+508: TurkTelecom
+509: TurkTelecom
+510: Turkcell
+511: Turkcell
+512: Turkcell
+513: Turkcell
+514: Turkcell
+515: Turkcell
+516: Turkcell
+517: Turkcell
+518: Turkcell
+519: Turkcell
+520: Turkcell
+521: Turkcell
+522: Turkcell
+523: Turkcell
+524: Turkcell
+525: Turkcell
+526: Turkcell
+527: Turkcell
+528: Turkcell
+529: Turkcell
+530: Turkcell
+531: Turkcell
+532: Turkcell
+533: Turkcell
+534: Turkcell
+535: Turkcell
+536: Turkcell
+537: Turkcell
+538: Turkcell
+539: Turkcell
+540: Vodafone
+541: Vodafone
+542: Vodafone
+543: Vodafone
+544: Vodafone
+545: Vodafone
+546: Vodafone
+547: Vodafone
+548: Vodafone
+549: Vodafone
+
+0093
+Country: Afghanistan
+Networks:
+70: AWCC
+71: AWCC
+79: Roshan
+72: Roshan
+78: Etisalat
+73: Etisalat
+77: MTN
+76: MTN
+74: Salaam
+75: AfghanTelecom
+
+0098
+Country: Iran
+Networks:
+900: MTN
+901: MTN
+902: MTN
+903: Irancell
+904: Irancell
+905: Irancell
+906: Irancell
+907: Irancell
+908: Irancell
+909: Irancell
+
+0091
+Country: India
+Networks:
+404: Airtel
+405: MTS
